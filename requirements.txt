@@ -1,2 +1,5 @@
 pytest
 pylint
+sqlalchemy
+psycopg2-binary
+docker-compose
